@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Smart Contracts**
 
-- 💬 Ask me about **WEB 3.0, Solidity**
+- 💬 Ask me about **WEB 3.0, Solidity, Coding**
 
 - 📫 How to reach me **contact.nikhil2002@gmail.com**
 
