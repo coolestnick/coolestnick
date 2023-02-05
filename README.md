@@ -11,7 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/nikkhil_kr" target="blank"><img src="https://img.shields.io/twitter/follow/nikkhil_kr?logo=twitter&style=for-the-badge" alt="nikkhil_kr" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain, Smart Contracts**
+
+- 🌱 I’m currently learning **Blockchain, Smart Contracts, DSA**
 
 - 💬 Ask me about **WEB 3.0, Solidity, Coding**
 
