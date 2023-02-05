@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil </h1>
 <h3 align="center">👀 Nice to meet you all! 👀</h3>
+<h3 align="center">An UnderGrad student studying Computer Science in India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
@@ -17,6 +18,8 @@
 - 📫 How to reach me **contact.nikhil2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tr3lu_kLpjyWA0-0C5QKaEy7kz1OhHTD/view?usp=sharing](https://drive.google.com/file/d/1tr3lu_kLpjyWA0-0C5QKaEy7kz1OhHTD/view?usp=sharing)
+
+- 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
