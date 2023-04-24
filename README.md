@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coolestnick&label=Profile%20views&color=0e75b6&style=flat" alt="coolestnick" /> </p>
+<p align="left"> <a href="https://app.daily.dev/coolestnick"><img src="https://api.daily.dev/devcards/0fb31f8b1b64420e9877949d7bfc8a99.png?r=d21" width="400" alt="Nikhil Kumar's Dev Card"/></a> </p>
 
 
 
