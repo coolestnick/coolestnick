@@ -1,36 +1,66 @@
-<h1 align="center">Hi 👋, I'm Nikhil </h1>
-<h3 align="center">👀 Nice to meet you all! 👀</h3>
-<h3 align="center">An UnderGrad student studying Computer Science in India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h3 align="center">Building at Shardeum · Open-source contributor to UseAgent</h3>
+<p align="center">Full-stack developer working on AI agents and Web3</p>
 
+- 🤖 Contributing to [UseAgent](https://github.com/useagenthq/useagent), an open-source platform for coding agents that work in sandboxed computers
+- ⛓️ Building dApps on Shardeum, Sui and the Internet Computer
+- 🌱 Currently learning **AI agents, LLM tooling and smart contract security**
+- 📫 Reach me at **contact.nikhil2002@gmail.com**
 
+## 🤖 Open source: UseAgent
 
-<p align="left"> <a href="https://app.daily.dev/coolestnick"><img src="https://api.daily.dev/devcards/0fb31f8b1b64420e9877949d7bfc8a99.png?r=d21" width="400" alt="Nikhil Kumar's Dev Card"/></a> </p>
+Merged pull requests:
 
+- [Add a short product tour for new users](https://github.com/useagenthq/useagent/pull/376): a skippable guided tour with a spotlight, keyboard support and setup steps for connecting a model
+- [Unify the approval cards onto one shell](https://github.com/useagenthq/useagent/pull/381): one card for every tool and command approval
+- [Make the error page's Retry fetch the page again](https://github.com/useagenthq/useagent/pull/193)
+- [Allow GPT-6 Luna, GPT-6 Sol and GPT-6.1 Sol for Codex](https://github.com/useagenthq/useagent/pull/132)
 
+In review: screen reader announcements, deleting skills and playbooks, rendering markdown in the Workspace, a proper side panel dialog on phones, and keeping every file in Download all.
 
-<p align="left"> <a href="https://twitter.com/nikkhil_kr" target="blank"><img src="https://img.shields.io/twitter/follow/nikkhil_kr?logo=twitter&style=for-the-badge" alt="nikkhil_kr" /></a> </p>
+## 🧠 AI projects
 
+| Project | What it does | Stack |
+|---|---|---|
+| [AI-wallet-backend](https://github.com/coolestnick/AI-wallet-backend) | Crypto market research with AI agents and real-time web scraping | Python |
+| [Difinity](https://github.com/coolestnick/Difinity) | LLM canister with tool calling on the Internet Computer | Motoko |
+| [ai-image-generator-using-dall-e-3](https://github.com/coolestnick/ai-image-generator-using-dall-e-3) | Image generation from text prompts | JavaScript |
 
-- 🌱 I’m currently learning **Blockchain, Smart Contracts, DSA**
+## ⛓️ Blockchain projects
 
-- 💬 Ask me about **WEB 3.0, Solidity, Coding**
+| Project | What it does | Stack |
+|---|---|---|
+| [gasless-Airdrop-Plarform](https://github.com/coolestnick/gasless-Airdrop-Plarform) | Token airdrop claims where a backend wallet pays the gas | JavaScript |
+| [Shard-Talk](https://github.com/coolestnick/Shard-Talk) | Chat dApp with every message stored on-chain on Shardeum | TypeScript |
+| [ShardeumQuest](https://github.com/coolestnick/ShardeumQuest) | Gamified DeFi learning with achievement NFTs | JavaScript |
+| [SNS-Shardeum-Naming-Service](https://github.com/coolestnick/SNS-Shardeum-Naming-Service) | Naming service for Shardeum addresses | JavaScript |
+| [HYPE-NOTIFY](https://github.com/coolestnick/HYPE-NOTIFY) | Real-time alerts and portfolio monitoring for Hyperliquid traders | TypeScript |
+| [defraud](https://github.com/coolestnick/defraud) | Reporting fraudulent transactions on Sui | Move |
+| [TIME-CAPSULE](https://github.com/coolestnick/TIME-CAPSULE) | Content locked until an unlock date, on the Internet Computer | Rust |
 
-- 📫 How to reach me **contact.nikhil2002@gmail.com**
+## 🛠️ Languages and tools
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tr3lu_kLpjyWA0-0C5QKaEy7kz1OhHTD/view?usp=sharing](https://drive.google.com/file/d/1tr3lu_kLpjyWA0-0C5QKaEy7kz1OhHTD/view?usp=sharing)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+</p>
 
-- 😄 Pronouns: He/Him
+## 🔗 Connect
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikkhil_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikkhil_kr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil-kumar-918216183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-kumar-918216183" height="30" width="40" /></a>
 <a href="https://instagram.com/nickhill_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nickhill_kr" height="30" width="40" /></a>
-<a href="https://discord.gg/0xNickK_HilL 🧑🏽💻#1941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0xNickK_HilL 🧑🏽💻#1941" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coolestnick&show_icons=true&locale=en&layout=compact" alt="coolestnick" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coolestnick&show_icons=true&locale=en&layout=compact" alt="Top languages" /></p>
