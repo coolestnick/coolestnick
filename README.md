@@ -1,23 +1,46 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Building at Shardeum · Open-source contributor to UseAgent</h3>
-<p align="center">Full-stack developer working on AI agents and Web3</p>
+<p align="center">
+  <img src="assets/header.svg" alt="Nikhil Kumar: full-stack developer building AI agents and Web3" width="100%"/>
+</p>
 
-- 🤖 Contributing to [UseAgent](https://github.com/useagenthq/useagent), an open-source platform for coding agents that work in sandboxed computers
-- ⛓️ Building dApps on Shardeum, Sui and the Internet Computer
-- 🧠 Building AI agents with Gemini, OpenAI and MCP, and working daily with coding agents like Claude Code and Codex
-- 🌱 Currently learning **agent evaluation, LLM tooling and smart contract security**
-- 📫 Reach me at **contact.nikhil2002@gmail.com**
+<p align="center">
+  <a href="https://github.com/useagenthq/useagent/pulls?q=is%3Apr+author%3Acoolestnick"><img src="https://img.shields.io/badge/UseAgent-13_merged_PRs-7cf5c9?style=for-the-badge&labelColor=0b1020" alt="13 merged PRs in UseAgent"/></a>
+  <a href="https://twitter.com/nikkhil_kr"><img src="https://img.shields.io/badge/@nikkhil__kr-7aa7ff?style=for-the-badge&logo=x&logoColor=white&labelColor=0b1020" alt="X"/></a>
+  <a href="https://linkedin.com/in/nikhil-kumar-918216183"><img src="https://img.shields.io/badge/LinkedIn-c58bff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn"/></a>
+  <a href="mailto:contact.nikhil2002@gmail.com"><img src="https://img.shields.io/badge/Email-a99bff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1020" alt="Email"/></a>
+</p>
+
+```ts
+const nikhil = {
+  building:  ["AI agents", "dApps on Shardeum, Sui and the Internet Computer"],
+  shipping:  "open-source UI and reliability fixes to UseAgent",
+  learning:  ["agent evaluation", "LLM tooling", "smart contract security"],
+  reachMe:   "contact.nikhil2002@gmail.com",
+};
+```
 
 ## 🤖 Open source: UseAgent
 
-Merged pull requests:
+<img src="assets/useagent.svg" alt="UseAgent contributions: 13 merged PRs, +3,831 lines across 104 files, 1 in review" width="100%"/>
 
-- [Add a short product tour for new users](https://github.com/useagenthq/useagent/pull/376): a skippable guided tour with a spotlight, keyboard support and setup steps for connecting a model
-- [Unify the approval cards onto one shell](https://github.com/useagenthq/useagent/pull/381): one card for every tool and command approval
-- [Make the error page's Retry fetch the page again](https://github.com/useagenthq/useagent/pull/193)
-- [Allow GPT-6 Luna, GPT-6 Sol and GPT-6.1 Sol for Codex](https://github.com/useagenthq/useagent/pull/132)
+[UseAgent](https://github.com/useagenthq/useagent) is an open-source platform where coding agents work in sandboxed computers. What I've shipped there:
 
-In review: screen reader announcements, deleting skills and playbooks, rendering markdown in the Workspace, a proper side panel dialog on phones, and keeping every file in Download all.
+| Area | PR | What it does |
+|---|---|---|
+| 🗂️ **Workspace** | [#406](https://github.com/useagenthq/useagent/pull/406) | Keep the Terminal's shell running when the agent starts a new turn |
+| | [#396](https://github.com/useagenthq/useagent/pull/396) | Render markdown documents in the Workspace Rendered view |
+| | [#400](https://github.com/useagenthq/useagent/pull/400) | Keep every file in Download all when two files share a name |
+| | [#397](https://github.com/useagenthq/useagent/pull/397) | Spin the Files refresh icon only on a manual refresh |
+| | [#404](https://github.com/useagenthq/useagent/pull/404) | Fix the artifact archive method and document the quality route |
+| ♿ **Accessibility and mobile** | [#393](https://github.com/useagenthq/useagent/pull/393) | Announce replies, stops and approvals to screen readers |
+| | [#399](https://github.com/useagenthq/useagent/pull/399) | Make the side panel on phones a proper dialog, with focus kept inside |
+| | [#395](https://github.com/useagenthq/useagent/pull/395) | Say what the thread side panels show, in plain words |
+| 🛡️ **Agents and approvals** | [#381](https://github.com/useagenthq/useagent/pull/381) | Unify every tool and command approval onto one card |
+| | [#132](https://github.com/useagenthq/useagent/pull/132) | Allow GPT-6 Luna, GPT-6 Sol and GPT-6.1 Sol for Codex |
+| 📚 **Library** | [#394](https://github.com/useagenthq/useagent/pull/394) | Let people delete skills and playbooks from the library |
+| 🚀 **Onboarding** | [#376](https://github.com/useagenthq/useagent/pull/376) | A skippable product tour with a spotlight, keyboard support and model setup steps |
+| 🔁 **Reliability** | [#193](https://github.com/useagenthq/useagent/pull/193) | Make the error page's Retry fetch the page again |
+
+**In review:** [#408](https://github.com/useagenthq/useagent/pull/408) asks before closing a Workspace tab with unsaved edits, with Save, Discard and Cancel.
 
 ## 🧠 AI and agents
 
@@ -40,7 +63,6 @@ In review: screen reader announcements, deleting skills and playbooks, rendering
 | Web scraping for agents (Firecrawl) | [agents/firecrawl_research.py](https://github.com/coolestnick/AI-wallet-backend/blob/HEAD/agents/firecrawl_research.py) |
 | LLM tool calling on-chain | [Difinity](https://github.com/coolestnick/Difinity) |
 | Conversational bot design | [bot/README.md](https://github.com/coolestnick/magicpin-ai-challenge/blob/HEAD/bot/README.md) |
-| Claude Code skills | [.claude/skills](https://github.com/coolestnick/marhban-textile/tree/HEAD/.claude/skills) |
 
 ## ⛓️ Blockchain projects
 
@@ -80,11 +102,4 @@ In review: screen reader announcements, deleting skills and playbooks, rendering
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
-</p>
-
-## 🔗 Connect
-
-<p align="left">
-<a href="https://twitter.com/nikkhil_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikkhil_kr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhil-kumar-918216183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-kumar-918216183" height="30" width="40" /></a>
 </p>

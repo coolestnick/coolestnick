@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="UseAgent contributions: 13 merged pull requests, 1 in review, 3,831 lines added across 104 files, from 13 October to 2 November 2026">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#151233"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7cf5c9"/>
+      <stop offset="0.5" stop-color="#7aa7ff"/>
+      <stop offset="1" stop-color="#c58bff"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .num { font-weight: 800; font-size: 34px; }
+      .lbl { font-size: 12px; fill: #8b93b8; letter-spacing: 1.5px; }
+      .dot { opacity: 0; animation: pop 0.35s ease forwards; }
+      .grow { stroke-dasharray: 760; stroke-dashoffset: 760; animation: draw 1.6s ease forwards; }
+      @keyframes pop { to { opacity: 1; } }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { .dot { animation: none; opacity: 1; } .grow { animation: none; stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+  <rect width="1000" height="230" rx="20" fill="url(#bg2)"/>
+  <rect x="0.5" y="0.5" width="999" height="229" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.07"/>
+
+  <g class="sans">
+    <text x="40" y="44" fill="#d7dcf5" font-size="17" font-weight="700">useagenthq/useagent</text>
+    <text x="230" y="44" fill="#8b93b8" font-size="13">open-source platform for coding agents in sandboxed computers</text>
+
+    <!-- stats -->
+    <g transform="translate(40 76)">
+      <text class="num" y="34" fill="#7cf5c9">13</text>
+      <text class="lbl" y="56">MERGED PRS</text>
+    </g>
+    <g transform="translate(190 76)">
+      <text class="num" y="34" fill="#7aa7ff">+3,831</text>
+      <text class="lbl" y="56">LINES ADDED</text>
+    </g>
+    <g transform="translate(360 76)">
+      <text class="num" y="34" fill="#a99bff">104</text>
+      <text class="lbl" y="56">FILES CHANGED</text>
+    </g>
+    <g transform="translate(510 76)">
+      <text class="num" y="34" fill="#c58bff">1</text>
+      <text class="lbl" y="56">IN REVIEW</text>
+    </g>
+  </g>
+
+  <!-- timeline: Oct 13 (x=660) to Nov 4 (x=960), 22 days, ~13.6px per day -->
+  <g transform="translate(0 0)">
+    <text x="660" y="88" class="sans lbl">TIMELINE</text>
+    <line x1="660" y1="140" x2="960" y2="140" stroke="#ffffff" stroke-opacity="0.08" stroke-width="4" stroke-linecap="round"/>
+    <line class="grow" x1="660" y1="140" x2="960" y2="140" stroke="url(#rail)" stroke-width="4" stroke-linecap="round"/>
+    <!-- Oct 13: #132 -->
+    <circle class="dot" style="animation-delay:.3s" cx="660" cy="140" r="6" fill="#7cf5c9"/>
+    <!-- Oct 23: #193 #376 -->
+    <circle class="dot" style="animation-delay:.6s" cx="796" cy="140" r="6" fill="#7aa7ff"/>
+    <circle class="dot" style="animation-delay:.65s" cx="796" cy="124" r="6" fill="#7aa7ff"/>
+    <!-- Oct 26: #381 -->
+    <circle class="dot" style="animation-delay:.8s" cx="837" cy="140" r="6" fill="#8fa0ff"/>
+    <!-- Nov 2: nine merges -->
+    <g class="dot" style="animation-delay:1.1s" fill="#c58bff">
+      <circle cx="932" cy="140" r="6"/><circle cx="932" cy="124" r="6"/><circle cx="932" cy="108" r="6"/>
+      <circle cx="918" cy="124" r="6"/><circle cx="918" cy="108" r="6"/><circle cx="946" cy="124" r="6"/>
+      <circle cx="946" cy="108" r="6"/><circle cx="932" cy="92" r="6"/><circle cx="918" cy="92" r="6"/>
+    </g>
+    <!-- Nov 3: #408 in review -->
+    <circle class="dot" style="animation-delay:1.4s" cx="960" cy="140" r="6" fill="none" stroke="#c58bff" stroke-width="2" stroke-dasharray="3 3"/>
+    <g class="mono" font-size="11" fill="#5b6390">
+      <text x="660" y="166" text-anchor="middle">Oct 13</text>
+      <text x="796" y="166" text-anchor="middle">Oct 23</text>
+      <text x="932" y="166" text-anchor="middle">Nov 2</text>
+    </g>
+  </g>
+
+  <!-- areas -->
+  <g class="sans" font-size="12">
+    <g transform="translate(40 178)">
+      <rect width="118" height="28" rx="14" fill="#7cf5c9" fill-opacity="0.1" stroke="#7cf5c9" stroke-opacity="0.4"/>
+      <text x="59" y="18.5" text-anchor="middle" fill="#c9cff0">Workspace</text>
+    </g>
+    <g transform="translate(168 178)">
+      <rect width="118" height="28" rx="14" fill="#7aa7ff" fill-opacity="0.1" stroke="#7aa7ff" stroke-opacity="0.4"/>
+      <text x="59" y="18.5" text-anchor="middle" fill="#c9cff0">Accessibility</text>
+    </g>
+    <g transform="translate(296 178)">
+      <rect width="118" height="28" rx="14" fill="#a99bff" fill-opacity="0.1" stroke="#a99bff" stroke-opacity="0.4"/>
+      <text x="59" y="18.5" text-anchor="middle" fill="#c9cff0">Agent approvals</text>
+    </g>
+    <g transform="translate(424 178)">
+      <rect width="118" height="28" rx="14" fill="#c58bff" fill-opacity="0.1" stroke="#c58bff" stroke-opacity="0.4"/>
+      <text x="59" y="18.5" text-anchor="middle" fill="#c9cff0">Onboarding</text>
+    </g>
+  </g>
+</svg>
